@@ -10,9 +10,7 @@ Software Engineer
 
 🔗 Let's connect and explore the possibilities of working together or sharing insights. I'm always excited to network with fellow professionals and exchange knowledge. 
 
-#ReactJS #JavaScript #Redux #NextJS #TailwindCSS #Drupal #ScrumMaster #Agile
-
-* 🌍  I'm based in Kolkata
+* 🌍  I'm based in Kolkata, India
 * 🖥️  See my portfolio at [My website](http://jkhan-18.github.io/)
 * ✉️  You can contact me at [jkhan.ece@gmail.com](mailto:jkhan.ece@gmail.com)
 * 🧠  I'm learning Next.js, Tailwind CSS, Redux Toolkit
