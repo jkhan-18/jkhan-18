@@ -6,7 +6,9 @@ Software Engineer
 
 🚀 With 7 years of IT expertise under my belt, I'm dedicated to the world of web development. I specialize in React.js, JavaScript, Redux, and harnessing the power of Tailwind CSS to craft stunning and responsive user interfaces. I'm also well-versed in Drupal, leveraging its capabilities to build robust web solutions. 
 
-🏆 I hold the distinction of being a Certified Professional Scrum Master, passionate about Agile methodologies. Guiding teams toward peak performance and delivering successful projects is my forte. 📚 When I'm not immersed in code or leading teams, you'll find me expanding my tech horizons and staying at the forefront of industry trends.
+🏆 I hold the distinction of being a Certified Professional Scrum Master, passionate about Agile methodologies. Guiding teams toward peak performance and delivering successful projects is my forte.
+
+📚 When I'm not immersed in code or leading teams, you'll find me expanding my tech horizons and staying at the forefront of industry trends.
 
 🔗 Let's connect and explore the possibilities of working together or sharing insights. I'm always excited to network with fellow professionals and exchange knowledge. 
 
